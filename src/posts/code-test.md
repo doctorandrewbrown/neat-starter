@@ -12,9 +12,7 @@ export default {
 		"posts"
 	],
 	"layout": "layouts/post.njk",
-};
-```
-#﻿# Python
+`﻿``
 
 ```python
 i﻿f (a==x):
