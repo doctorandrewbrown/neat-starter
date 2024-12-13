@@ -14,3 +14,10 @@ export default {
 	"layout": "layouts/post.njk",
 };
 ```
+#﻿# Python
+`﻿``python
+i﻿f (a==x):
+ ﻿   c = 56
+e﻿lse: 
+ ﻿   c == 10
+`﻿``
