@@ -6,11 +6,11 @@ date: 2024-12-13T18:23:22.385Z
 tags:
   - Tags
 ---
-`﻿``javascript
+```javascript
 export default {
 	tags: [
 		"posts"
 	],
 	"layout": "layouts/post.njk",
 };
-`﻿``
+```
