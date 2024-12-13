@@ -15,6 +15,7 @@ export default {
 };
 ```
 #﻿# Python
+
 `﻿``python
 i﻿f (a==x):
  ﻿   c = 56
