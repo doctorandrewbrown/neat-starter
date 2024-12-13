@@ -16,9 +16,9 @@ export default {
 ```
 #﻿# Python
 
-`﻿``python
+```python
 i﻿f (a==x):
  ﻿   c = 56
 e﻿lse: 
  ﻿   c == 10
-`﻿``
+```
